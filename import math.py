@@ -12,6 +12,6 @@ bgcolor("black")
 for m in range(6000):
     goto(kalp(m)*20,kalpe(m)*20)
     for i in range(5):
-        color("blue")
+        color("red")
         goto(0,0)
 done()
